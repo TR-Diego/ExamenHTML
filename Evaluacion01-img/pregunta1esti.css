@@ -1,0 +1,32 @@
+
+
+
+html, body{
+    align-items: center;
+}
+.caja div {
+    width: 20vw;
+    height: 5vw;
+    text-align: center;
+    padding: 0;
+    align-items: center;
+}
+
+.grisOS {
+    background-color: rgb(78, 78, 78);
+    color: white;
+    font-size: 40px;
+    align-items: center;
+}
+
+.griscla {
+    background-color: rgb(184, 184, 184);
+    color: black;
+    align-items: center;
+}
+
+.blanco {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    align-items: center;
+}
